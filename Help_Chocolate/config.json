@@ -7,7 +7,7 @@
   "lvl": "4",
   "edit": true,
   "AutoEdit": false,
-  "MMSettings": true,
+  "MMSettings": false,
   "MMmsg": true,
   "msg": "AutoEdit отключен по просьбе Christopher Sinclair, гл. следящего за СМИ."
 }
