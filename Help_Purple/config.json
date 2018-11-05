@@ -7,5 +7,7 @@
   "lvl": "3",
   "edit": true,
   "AutoEdit": false,
-  "msg": "AutoEdit отключен по просьбе админинистрации."
+  "msg": "AutoEdit отключен по просьбе админинистрации.",
+  "MMSettings": true,
+  "MMmsg": true
 }
