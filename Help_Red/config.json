@@ -7,5 +7,7 @@
   "lvl": "3",
   "edit": true,
   "AutoEdit": true,
-  "msg": ""
+  "msg": "",
+  "MMSettings": true,
+  "MMmsg": true
 }
