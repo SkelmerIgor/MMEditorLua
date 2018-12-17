@@ -1,50 +1,15 @@
-Список округов штата (карта расположения):
-- Red County;
-- Bone County;
-- Flint County;
-- Tierra Robada;
-- Whetstone.
-Список городов штата:
-- Los Santos (ЛС);
-- San Fierro (СФ);
-- Las Venturas (ЛВ);
-- Blueberry (ББ, город за заводом)
-- Montgomery;
-- Palomino Creek (ПК);
-- Dillimore;
-- Angel Pine (АП, город у шахты);
-- Bayside (Город, в котором расположена база ВМФ);
-- El Quebrados;
-- Las Barrancas;
-- Fort Carson (ФК. Город, в районе которого базируются Сухопутные Войска);
-- Las Payasdas (Город, в котором расположена АЗС "Авиационная").
-Жилые районы города Los Santos:
-- Vinewood;
-- Temple;
-- Marina;
-- Santa Maria Beach;
-- Verona Beach;
-- Las Colinas;
-- Los Flores;
-- Jefferson;
-- Glen Park;
-- East Los Santos;
-- East Beach;
-- Idlewood;
-- Ganton;
-- Willowfield;
-- El Corona;
-- Playa Del Seville.
-Жилые районы города San Fierro:
-- Juniper Hill;
-- Paradiso;
-- Santa Flora;
-- Calton Heights;
-- China Town;
-- Ocean Flats;
-- Hushbury.
-Жилые районы города Las Venturas:
-- Whitewood Estates;
-- Redsands West;
-- Prickle Pine;
-- Rockshore West.
+8.1. Продажа/покупка SIM-карт разрешена.
+
+8.2. Максимальная цена для покупки/продажи SIM-карты - 3.000.000 $.
+
+8.3. При продаже SIM-карты обязательно указывать номер или формат.
+Пришло: Продам симку 7575
+Отправляем: ТЭГ | Продам SIM-карту формата "YX-YX". Цена: договорная
+
+8.4. При покупке SIM-карты обязательно указывать формат.
+Пришло: Куплю симку XX-YY
+Отправляем: Куплю SIM-карту формата "XX-YY". Цена: договорная.
+
+8.5. Запрещено редактировать покупку/продажу SIM-карты без указания формата или номера.
+
+8.6. Запрещено указывать формат, несущий в себе оскорбления. Пример: "XYU-XUY" | "GAY-GAY" и тому подобное.
