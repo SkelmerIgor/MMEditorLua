@@ -8,6 +8,7 @@ local hwnd = readMemory(0x00C8CF88, 4, false)
 local renderer = imgui.ImGuiRenderer(getD3DDevicePtr(), hwnd)
 local winmsg = require 'windows.message'
 local bitex = require 'bitex'
+local memory = require 'memory'
 
 imgui._VERSION = '1.1.3'
 imgui.BeforeDrawFrame = nil
@@ -1413,6 +1414,9 @@ local function on_window_message(msg, wparam, lparam)
 		end
 	end
 end
+
+-- shift key bug fix
+memory.fill(0x00531155, 0x90, 5, true)
 
 -- initialization
 addEventHandler('onD3DDeviceLost', on_lost_device)
