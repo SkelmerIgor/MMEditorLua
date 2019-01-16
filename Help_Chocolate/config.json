@@ -6,7 +6,7 @@
   "zakon": "30",
   "lvl": "4",
   "edit": true,
-  "AutoEdit": false,
+  "AutoEdit": true,
   "MMSettings": true,
   "MMmsg": true,
   "msg": "AutoEdit отключен по просьбе Christopher Sinclair, гл. следящего за СМИ."
