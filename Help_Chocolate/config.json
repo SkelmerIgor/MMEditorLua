@@ -6,8 +6,8 @@
   "zakon": "20",
   "lvl": "3",
   "edit": true,
-  "AutoEdit": true,
+  "AutoEdit": false,
   "MMSettings": true,
   "MMmsg": true,
-  "msg": "AutoEdit отключен по просьбе Christopher Sinclair, гл. следящего за СМИ."
+  "msg": "AutoEdit отключен по просьбе Vito Lacotelli, гл. следящего за СМИ."
 }
