@@ -1,117 +1,50 @@
-1. Транспорт.
-Автомобили:
-Премьер - Premier
-Ранчер - Rancher
-Санраис - Sunrise
-Хантли - Huntley
-Ележу/елегу/телегу/елегия - Elegy
-Мунбим - Moonbeam
-Блиста - Blista Compact
-Савана - Savanna
-Клуб - Club
-Фургон хиппи/кэмпер - Camper
-Читаха/читах/чеетах - Cheetah
-Буфало - Buffalo
-зр-350/зр - ZR-350
-Банши/банша/баншу - Banshee
-Булка/буллет - Bullet
-супер гт - Super GT
-Феникс/пхоеникс - Phoenix
-Альфа - Alpha.
-Комет - Comet.
-
-Мотоциклы/велосипеды:
-фкр - FCR-900
-скутер - Faggio
-фривей - Freeway
-бф - BF-400
-псж - PSJ-600
-бмх - BMX.
-
-2. Типы домов.
-У многих домов имеются названия, которые могут вас запутать, по этому внимательно ознакомьтесь.
-Уникальные:
-"Гостиничный номер" - не номер в отеле, а временное жилье в д.Fort-Carson.
-"Деревянный дом" - уникальный в штате, находится в д.Angel Pine.
-"Зеленый дом" - уникальный в штате, находится в р.Las-Colinas, Los-Santos.
-"Сарай" - три времянки.Две в д.Fort-Carson и одна в д.Angel Pine.
-"Роскошный особняк" - единственный в штате, находится в р.Marina, Los-Santos.
-"Квартира у моря" - квартиры на п. Verona Beach и на пляже San-Fierro.
-"Дом Каталины" - уникальный дом в Red County, около д.Blueberry.
-"Коттедж" - дома №770, №771 о.Tierra-Robada, возле моста СФ-ЛВ, дом Торено.
-"Времянка" - класс дома с низкой оплатой, при редакции заменяется на "жилье".
-"Дом на отшибе" - уникальный дом за г.Vinewood.
-
-3. Типы бизнесов.
-Уникальные бизнесы не требуют указания местоположения при продаже или рекламе.
-Уникальные:
-упра/упр. стат. - "Управление статистикой", уникальный бизнес в Temple, Los-Santos,
-риелторка/риелта/риелт.агент. - "Риэлторское агентство", уникальный бизнес в Vinewood, Los-Santos.
-парашютка - "Парашютный клуб", уникальный бизнес в El Corona, Los-Santos.
-альха/альхамбра - клуб "Alhambra", уникальный бизнес в Idlewood, Los-Santos.
-пиг пэн - клуб "Pig Pen", уникальный бизнес в Las-Colinas, Los-Santos.
-КЗ/kz - "Концертный зал", уникальный бизнес в Temple, Los-Santos.
-"Автосалон ЛС", уникальный бизнес в Rodeo, Los-Santos.
-Спа - "SPA-Центр", уникальный бизнес в Flint County.
-коровка - "Мясная лавка" в д.Fort-Carson, магазин 24/7.
-Так же "коровка" есть в д.Las-Barrancas.Называется так из-за большой фигуры в форме коровы на крыше.
-"Все для хиппи" - два бизнеса, оба находятся в Queens, San-Fierro. "Верхний" и "нижний".
-"Садовый центр" - уникальный бизнес в San-Fierro.
-
-4. Населенные пункты.
-Города:
-ЛС/LS - Los-Santos
-SF/СФ - San-Fierro
-ЛВ/LV - Las-Venturas
-
-Деревни:
-Монтгомери - Montgomery, Red County.
-ПК/PK/PC - Palomino Creek, Red County.
-Блюбери/за заводом - Blueberry, Red County.
-Диллимур/Диллимор/Диллиморе - Dillimore, Red County.
-АП/Анжел пайн/ангел пуйн - Angel Pine, Whetstone.
-ФК/FC/FK - Fort-Carson, Bone Country.
-у ВМФ/байсайд/баусиде - Bayside, Tierra Robada.
-Ел Куебрадос/ал хуебирдос - El Quebrados, Tierra Robada.
-Лас-Баранкас - Las-Barrancas, Tierra Robada.
-Над ВВС, Лас-Пайасадас - Bone County.
-
-5. Организации.
-Государственные:
-Больница г.Los-Santos - р.Market.
-Больница г.San-Fierro - p.Queens.
-Больница г.Las-Venturas - p.Redsands West.
-Здание МЗ - p.Garcia.
-
-Полицейский участок г.Los-Santos - p.Commerce.
-Полицейский участок г.San-Fierro - p.Downtown.
-Полицейский участок г.Las-Venturas - p.The Emerald Isle.
-ФБР - р.Queens.
-Здание МВД - p.China Town.
-
-ВВС - Bone County.
-ВМФ - д.Bayside.
-СВ - д.Fort-Carson.
-Авианосец - р.Easter Basin.
-Министерство Обороны - р.Blackfield.
-
-Мэрия г.Los-Santos - р.Commerce.
-Мэрия г.San-Fierro - p.Queens.
-Мэрия г.Las-Venturas - p.Rosa Escalante.
-Администрация Президента - p.Vinewood.
-
-Радиоцентр г.Los-Santos - р.Commerce.
-Радиоцентр г.San-Fierro - p.Downtown, San-Fierro.
-Радиоцентр г.Las-Venturas - p.The Emerald Isle.
-Телецентр - p.Downtown, Los-Santos.
-
-Нелегальные:
-The Ballas - p.Glen Park/Jefferson.
-Los Santos Vagos - p.Las-Colinas/Los-Flores.
-Groove St. - p.Ganton.
-Varios Los Aztecas - p.Idlewood.
-The Rifa - p.Willowfield.
-
-La Cosa Nostra - p.Prickle Pine.
-Yakuza - p.Pilgrim.
-Русская Мафия - p.Redsands West.
+Список округов штата (карта расположения):
+- Red County;
+- Bone County;
+- Flint County;
+- Tierra Robada;
+- Whetstone.
+Список городов штата:
+- Los Santos (ЛС);
+- San Fierro (СФ);
+- Las Venturas (ЛВ);
+- Blueberry (ББ, город за заводом)
+- Montgomery;
+- Palomino Creek (ПК);
+- Dillimore;
+- Angel Pine (АП, город у шахты);
+- Bayside (Город, в котором расположена база ВМФ);
+- El Quebrados;
+- Las Barrancas;
+- Fort Carson (ФК. Город, в районе которого базируются Сухопутные Войска);
+- Las Payasdas (Город, в котором расположена АЗС "Авиационная").
+Жилые районы города Los Santos:
+- Vinewood;
+- Temple;
+- Marina;
+- Santa Maria Beach;
+- Verona Beach;
+- Las Colinas;
+- Los Flores;
+- Jefferson;
+- Glen Park;
+- East Los Santos;
+- East Beach;
+- Idlewood;
+- Ganton;
+- Willowfield;
+- El Corona;
+- Playa Del Seville.
+Жилые районы города San Fierro:
+- Juniper Hill;
+- Paradiso;
+- Santa Flora;
+- Calton Heights;
+- China Town;
+- Ocean Flats;
+- Hushbury.
+Жилые районы города Las Venturas:
+- Whitewood Estates;
+- Redsands West;
+- Prickle Pine;
+- Rockshore West.
