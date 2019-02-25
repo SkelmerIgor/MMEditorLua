@@ -8,6 +8,6 @@
   "edit": false,
   "AutoEdit": true,
   "msg": "Ловля отключена по просьбе управляющего и следядщей администрации",
-  "MMSettings": true,
-  "MMmsg": true
+  "MMSettings": false,
+  "MMmsg": false
 }
