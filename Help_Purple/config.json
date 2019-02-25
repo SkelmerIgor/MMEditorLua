@@ -8,6 +8,6 @@
   "edit": true,
   "AutoEdit": false,
   "msg": "AutoEdit отключен по просьбе админинистрации.",
-  "MMSettings": true,
-  "MMmsg": true
+  "MMSettings": false,
+  "MMmsg": false
 }
