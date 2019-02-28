@@ -8,6 +8,6 @@
   "edit": true,
   "AutoEdit": true,
   "msg": "",
-  "MMSettings": true,
-  "MMmsg": true
+  "MMSettings": false,
+  "MMmsg": false
 }
