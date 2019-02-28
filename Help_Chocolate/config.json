@@ -7,7 +7,7 @@
   "lvl": "3",
   "edit": true,
   "AutoEdit": false,
-  "MMSettings": false,
-  "MMmsg": false,
+  "MMSettings": true,
+  "MMmsg": true,
   "msg": "AutoEdit отключен по просьбе Vito Lacotelli, гл. следящего за СМИ."
 }
