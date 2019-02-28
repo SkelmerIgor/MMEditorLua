@@ -8,6 +8,6 @@
   "edit": false,
   "AutoEdit": false,
   "msg": "Данная функция отключена по просьбе главного администратора Kevin Trench.",
-  "MMSettings": false,
-  "MMmsg": false
+  "MMSettings": true,
+  "MMmsg": true
 }
