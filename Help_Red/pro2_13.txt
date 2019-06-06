@@ -1,24 +1,23 @@
-Города
-Los Santos (Лос-Сантос)
-San Fierro (Сан-Фиерро)
-Las Venturas (Лас-Вентурас)
+Р“РѕСЂРѕРґР°
+Los Santos (Р›РѕСЃ-РЎР°РЅС‚РѕСЃ)
+San Fierro (РЎР°РЅ-Р¤РёРµСЂСЂРѕ)
+Las Venturas (Р›Р°СЃ-Р’РµРЅС‚СѓСЂР°СЃ)
 
-Деревни
-Palomino Creek (Паломино-Крик)
-Angel Pine (Эйнджел-Пайн)
-Montgomery (Монтгомери)
-Blueberry (Блуберри)
-El Quebrados (Эль-Кебрадос)
-Las Barrancas (Лас-Барранкас)
-Dillimore (Диллимор)
-Bayside (Бэйсайд)
-Fort Carson (Форт-Карсон)
-Las Payasadas (Лас-Паясадас)
+Р”РµСЂРµРІРЅРё
+Palomino Creek (РџР°Р»РѕРјРёРЅРѕ-РљСЂРёРє)
+Angel Pine (Р­Р№РЅРґР¶РµР»-РџР°Р№РЅ)
+Montgomery (РњРѕРЅС‚РіРѕРјРµСЂРё)
+Blueberry (Р‘Р»СѓР±РµСЂСЂРё)
+El Quebrados (Р­Р»СЊ-РљРµР±СЂР°РґРѕСЃ)
+Las Barrancas (Р›Р°СЃ-Р‘Р°СЂСЂР°РЅРєР°СЃ)
+Dillimore (Р”РёР»Р»РёРјРѕСЂ)
+Bayside (Р‘СЌР№СЃР°Р№Рґ)
+Fort Carson (Р¤РѕСЂС‚-РљР°СЂСЃРѕРЅ)
+Las Payasadas (Р›Р°СЃ-РџР°СЏСЃР°РґР°СЃ)
 
-Округа
-Red County (Округ Ред)
-Flint County (Округ Флинт)
-Tierra Robada (Тьерра-Робада)
-Bone County (Округ Боун)
-Whetstone (Ветстоун)
-
+РћРєСЂСѓРіР°
+Red County (РћРєСЂСѓРі Р РµРґ)
+Flint County (РћРєСЂСѓРі Р¤Р»РёРЅС‚)
+Tierra Robada (РўСЊРµСЂСЂР°-Р РѕР±Р°РґР°)
+Bone County (РћРєСЂСѓРі Р‘РѕСѓРЅ)
+Whetstone (Р’РµС‚СЃС‚РѕСѓРЅ)
