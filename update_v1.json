@@ -1,6 +1,6 @@
 {
   "latest_number": 6,
-  "updatetext": "\tMM Editor Lua v1.23b на 08.02.2020. Изменения:\n\t- Изменены IP адреса Advance RP.\n\t- Убран интерактивный /find.\n\t- Исправлена отыгровка /find.",
+  "updatetext": "\tMM Editor Lua v1.23b на 08.02.2020. Изменения:\n\t- Изменены IP адреса Advance RP.\n\t- Удален интерактивный /find.\n\t- Исправлена отыгровка /find.",
   "msg": "\t Сообщений пока нет, но заглядывайте сюда иногда ;)",
   "latest": "1.23b",
   "permoment": true
