@@ -5,9 +5,9 @@
   "datappo": "xx.xx.xxxx",
   "zakon": "20",
   "lvl": "3",
-  "edit": true,
+  "edit": false,
   "AutoEdit": true,
-  "MMSettings": true,
+  "MMSettings": false,
   "MMmsg": true,
-  "msg": ""
+  "msg": "Ловля запрещена администрацией Lime сервера"
 }
