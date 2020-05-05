@@ -6,7 +6,7 @@
   "zakon": "15",
   "lvl": "3",
   "edit": false,
-  "AutoEdit": false,
+  "AutoEdit": true,
   "msg": "Данная функция отключена по просьбе главного администратора Kevin Trench.",
   "MMSettings": true,
   "MMmsg": true
