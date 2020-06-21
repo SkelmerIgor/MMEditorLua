@@ -1,0 +1,129 @@
+A
+Admiral - 140.000 $
+Alpha - 280.000 $
+B
+Bandito - 242.000$
+Banshee - 730.000 $
+Beagle - 5.120.000$
+BF Injection - 625.000$
+BF-400 - 123.000 $
+Bike - 4.200 $
+Blade - 152.000 $
+Blista Compact - 220.000 $
+Bloodring Banger - 730.000$
+Bobcat - 23.700 $
+Bravura - 64.000 $
+Broadway - 41.000 $
+Buffalo - 850.000 $
+Bullet - 1.250.000 $
+C
+Cadrona - 86.200 $
+Camper - 201.500 $
+Cheetah - 1.800.000 $
+Clover - 15.000 $
+Club - 350.000 $
+Comet - 795.000 $
+Cropduster - 5.180.000$
+D
+Dodo - 5.350.000$
+E
+Elegy - 305.000 $
+Emperor - 116.000 $
+Esperanto - 116.000 $
+Euros - 525.000 $
+F
+Faggio - 24.000 $
+FCR-900 - 162.000 $
+Feltzer - 240.000 $
+Flash - 642.000 $
+Fortune - 82.000 $
+G
+Glendale - 24.000 $
+Greenwood - 35.000 $
+H
+Hermes - 17.300 $
+Hotdog - 148.000$
+Hotknife - 430.000$
+Hotring Racer - 850.000$
+Hotring Racer A - 940.000$
+Hotring Racer B - 941.000$
+Huntley - 214.000 $
+Hustler - 15.000 $
+I
+Infernus - 5.000.000$
+Intruder - 121.000 $
+J
+Jester - 659.000 $
+Jetmax - 4.600.000$
+Journey - 429.000$
+K
+Kart - 123.000$
+L
+Landstalker - 165.000 $
+Leviathan - 5.800.000$
+M
+Majestic - 23.000 $
+Manana - 13.000 $
+Marquis - 4.780.000$
+Maverick - 5.175.000$
+Mesa - 115.000 $
+Moonbeam - 145.000 $
+Mountain Bike - 16.800 $
+N
+Nebula - 43.000 $
+NRG-500 - 4.850.000$
+O
+Oceanic - 31.500 $
+P
+Patriot - 570.000$
+PCJ-600 - 140.000 $
+Perenniel - 19.500 $
+Phoenix - 395.000 $
+Picador - 19.200 $
+Premier - 130.000 $
+Previon - 84.000 $
+Primo - 125.000 $
+Quad - 194.000 $
+R
+Rancher - 176.000 $
+Reefer - 3.100.000$
+Regina - 47.500 $
+Remington - 280.000 $
+Romero - 164.000$
+S
+Sabre - 82.000 $
+Sadler - 16.000 $
+Sandking - 2.680.000$
+Savanna - 190.000 $
+Sentinel - 102.000 $
+Shamal - 12.000.000$
+Slamvan - 24.100 $
+Solair - 158.000 $
+Solair - 158.000$
+Sparrow - 4.300.000$
+Speeder - 3.740.000$
+Squallo - 3.700.000$
+Stafford - 250.000 $
+Stallion - 26.000 $
+Stretch - 1.700.000$
+Stuntplane - 5.570.000$
+Sultan - 590.000 $
+Sunrise - 126.000 $
+Super GT - 760.000 $
+T
+Tahoma - 167.000 $
+Tampa - 20.100 $
+Tornado - 230.000 $
+Tropic - 5.500.000$
+Turismo - 2.100.000 $
+V
+Vincent - 134.000 $
+Voodoo - 240.000 $
+Vortex - 5.100.000$
+W
+Washington - 124.000 $
+Wayfarer - 81.000 $
+Willard - 37.600 $
+Windsor - 130.000 $
+Z
+ZR-350 - 810.000 $
