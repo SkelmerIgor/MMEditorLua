@@ -1,10 +1,10 @@
-12.1 | Список округов штата (карта расположения):
+Список округов штата (карта расположения):
 - Red County;
 - Bone County;
 - Flint County;
 - Tierra Robada;
 - Whetstone.
-12.2 | Список городов штата:
+Список городов штата:
 - Los Santos (ЛС);
 - San Fierro (СФ);
 - Las Venturas (ЛВ);
@@ -18,7 +18,7 @@
 - Las Barrancas;
 - Fort Carson (ФК. Город, в районе которого базируются Сухопутные Войска);
 - Las Payasdas (Город, в котором расположена АЗС "Авиационная").
-12.3 | Жилые районы города Los Santos:
+Жилые районы города Los Santos:
 - Vinewood;
 - Temple;
 - Marina;
@@ -35,7 +35,7 @@
 - Willowfield;
 - El Corona;
 - Playa Del Seville.
-12.4 | Жилые районы города San Fierro:
+Жилые районы города San Fierro:
 - Juniper Hill;
 - Paradiso;
 - Santa Flora;
@@ -43,7 +43,7 @@
 - China Town;
 - Ocean Flats;
 - Hushbury.
-12.5 | Жилые районы города Las Venturas:
+Жилые районы города Las Venturas:
 - Whitewood Estates;
 - Redsands West;
 - Prickle Pine;
