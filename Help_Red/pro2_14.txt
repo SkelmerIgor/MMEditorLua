@@ -1,14 +1,23 @@
-Названия макетов оружия:
-Colt 45
-Combat SG
-Desert Eagle
-Sniper Rifle
-M4
-MP-5
-Micro Uzi
-Tec-9
-Sawnoff
-Shotgun
-AK-47
-Country Rifle
-SD Pistol 9 Mm
+Города
+Los Santos (Лос-Сантос)
+San Fierro (Сан-Фиерро)
+Las Venturas (Лас-Вентурас)
+
+Деревни
+Palomino Creek (Паломино-Крик)
+Angel Pine (Эйнджел-Пайн)
+Montgomery (Монтгомери)
+Blueberry (Блуберри)
+El Quebrados (Эль-Кебрадос)
+Las Barrancas (Лас-Барранкас)
+Dillimore (Диллимор)
+Bayside (Бэйсайд)
+Fort Carson (Форт-Карсон)
+Las Payasadas (Лас-Паясадас)
+
+Округа
+Red County (Округ Ред)
+Flint County (Округ Флинт)
+Tierra Robada (Тьерра-Робада)
+Bone County (Округ Боун)
+Whetstone (Ветстоун)
