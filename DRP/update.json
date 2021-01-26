@@ -1,0 +1,14 @@
+{
+  "verName": "0.1",
+  "verNum": 1,
+  update: [
+    date: "26.01.2021",
+    text: "Первый запуск скрипта!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  ],
+  message: [
+    {
+      date: "26.01.2021",
+      text: "Типа сообщение"
+    }
+  ]
+}
