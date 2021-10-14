@@ -1,0 +1,28 @@
+{
+	"verName": "2.0",
+	"verNum": 1,
+	"update": {
+		"date": "03.08.2021",
+		"text": "Бета скрипта"
+	},
+	"message": [
+		{
+			"date": "03.08.2021",
+			"text": "Бета скрипта"
+		}
+	],
+	"servers": [
+		{
+			"msg": true 
+		},
+		{
+			"msg": true 
+		},
+		{
+			"msg": true 
+		},
+		{
+			"msg": true 
+		}
+	]
+}
