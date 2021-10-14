@@ -1,0 +1,312 @@
+0 - ЗАПРЕЩЕНО
+1 - The Truth
+2 - Maccer
+3 - Andre
+4 - Big Bear
+5 - Big Bear
+6 - Emmet
+7 - Taxi
+8 - Janitor
+9 - Без названия
+10 - Old
+11 - Croupier
+12 - Rich
+13 - Street Girl
+14 - Без названия
+15 - Mr.Whittaker
+16 - Airport
+17 - Business
+18 - Beach Visitor
+19 - DJ
+20 - Rich
+21 - Без названия
+22 - Без названия
+23 - BMXer
+24 - Madd Dogg
+25 - Madd Dogg
+26 - Backpacker
+27 - Construction
+28 - Dealer
+29 - Dealer
+30 - Dealer
+31 - Farm-Town
+32 - Farm-Town
+33 - Farm-Town
+34 - Farm-Town
+35 - Gardener
+36 - Golfer
+37 - Golfer
+38 - Без названия
+39 -Без названия
+40 - Без названия
+41 - Без названия
+42 - Jethro
+43 - Без названия
+44 - Без названия
+45 - Beach Visitor
+46 - Normal Ped
+47 - Normal Ped
+48 - Normal Ped
+49 - Snakehead (Da Nang)
+50 - Mechanic
+51 - Mountain
+52 - Mountain
+53 - Без названия
+54 - Без названия
+55 - Без названия
+56 - Без названия
+57 - Без названия
+58 - Без названия
+59 - Без названия
+60 - Без названия
+61 - Pilot
+62 - Colonel
+63 - Pro st
+64 - Pro st
+65 - Kendl Johnson
+66 - Pool
+67 - Pool
+68 - Priest
+69 - Без названия
+70 - Scientist
+71 - Security Guard
+72 - Hippy
+73 - Hippy
+75 - Pro st
+74 - ЗАПРЕЩЕНО
+76 - Без названия
+77 - Homeless
+78 - Homeless
+79 - Homeless
+80 - Boxer
+81 - Boxer
+82 - Elvis
+83 - Elvis
+84 - Elvis
+85 - Pro st
+86 - Ryder
+87 - Stripper
+88 - Без названия
+89 - Без названия
+90 - Jogger
+91 - Rich
+92 - Rollerskater
+93 - Без названия
+94 - Без названия
+95 - Без названия
+96 - Jogger
+97 - Lifeguard
+98 - Без названия
+99 - Rollerskater
+100 -Biker
+101 - Без названия
+102 - Ballas
+103 - Ballas
+104 - Ballas
+105 - Grove
+106 - Grove
+107 - Grove
+108 - Vagos
+109 - Vagos
+110 - Vagos
+111 - The Mafia
+112 - The Mafia
+113 - The Mafia
+114 - Aztecas
+115 - Aztecas
+116 - Aztecas
+117 - Triad
+118 - Triad
+119 - Johhny Sindacco
+120 - Triad
+121 - Da Nang
+122 - Da Nang
+123 - Da Nang
+124 - The Mafia
+125 - The Mafia
+126 - The Mafia
+127 - The Mafia
+128 - Farm Inhabitant
+129 - Farm Inhabitant
+130 - Farm Inhabitant
+131 - Farm Inhabitant
+132 - Farm Inhabitant
+133 - Farm Inhabitant
+134 - Homeless
+135 - Homeless
+136 - Без названия
+137 - Homeless
+138 - Beach Visitor
+139 - Beach Visitor
+140 - Beach Visitor
+141 - Business
+142 - Taxi
+143 - Crack
+144 - Crack
+145 - Crack
+146 - Crack
+147 - Business
+148 - Business
+149 - Big Smoke
+150 - Businessman
+151 - Без названия
+152 - Pro st
+153 - Construction
+154 - Beach Visitor
+155 - Pizza
+156 - Barber
+157 - Hillbilly
+158 - Farmer
+159 - Hillbilly
+160 - Hillbilly
+161 - Farmer
+162 - Hillbilly
+163 - Bouncer
+164 - Bouncer
+165 - MIB
+166 - MIB
+167 - Cluckin
+168 - Hotdog
+169 - Без названия
+170 - Без названия
+171 - Blackjack
+172 - Croupier
+173 - Rifa
+174 - Rifa
+175 - Rifa
+176 - Barber
+177 - Barber
+178 - Whore
+179 - Salesman
+180 - Tatoo
+181 - Punk
+182 - Cab
+183 - Без названия
+184 - Без названия
+185 - Без названия
+186 - Без названия
+187 - Businessman
+188 - Без названия
+189 - Valet
+190 - Barbara Schternvart
+191 - Helena Wankstein
+192 - Michelle Cannes
+193 - Katie Zhan
+194 - Millie Perkins
+195 - Denise Robinson
+196 - Farm-Town
+197 - Hillbilly
+198 - Farm-Town
+199 - Farm-Town
+200 - Hillbilly
+201 - Farmer
+202 - Farmer
+203 - Gym
+204 - Gym
+205 - Burger
+206 - Cab
+207 - Pro st
+208 - Su Xi Mu (Suzie)
+209 - Oriental
+210 - Oriental
+211 - Staff
+212 - Homeless
+213 - Weird old man
+214 - Waitress
+215 - Без названия
+216 - Без названия
+217 - Staff
+218 - Без названия
+219 - Rich
+220 - Cab
+221 - Без названия
+222 - Без названия
+223 - Без названия
+224 - Без названия
+225 - Без названия
+226 - Без названия
+227 - Без названия
+228 - Без названия
+229 - Без названия
+230 - Homeless
+231 - Без названия
+232 - Без названия
+233 - Без названия
+234 - Cab
+235 - Без названия
+236 - Без названия
+237 - Pro st
+238 - Pro st
+239 - Homeless
+240 - The D.A
+241 - American
+242 - Mexican
+243 - Pro st
+244 - Stripper
+245 - Pro st
+246 - Stripper
+247 - Biker
+248 - Biker
+249 - Pimp
+250 - Без названия
+251 - Lifeguard
+252 - Naked Valet
+253 - Bus
+254 - Biker
+255 - Chauffeur
+256 - Stripper
+257 - Stripper
+258 - Heckler
+259 - Heckler
+260 - Construction Worker
+261 - Cab driver
+262 - Cab driver
+263 - Без названия
+264 - Clown
+265 - Tenpenny
+266 - Pulaski
+267 - Hernandez
+268 - Dwayne
+269 - (BIG) Smoke
+270 - Sweet
+271 - Ryder
+272 - Mafia Boss
+273 - T-Bone
+274 - Paramedic
+275 - Paramedic
+276 - Paramedic
+277 - Firefighter
+278 - Firefighter
+279 - Firefighter
+280 - PO
+281 - PO
+282 - PO
+283 - Sheriff
+284 - PO
+285 - SWAT
+286 - Federal Agent
+287 - Army
+288 - Sheriff
+289 - Zero
+290 - Rose
+291 - Kent Paul
+292 - Cesar
+293 - OG Loc
+294 - Wu Zi Mu (Woozie)
+295 - Michael Toreno
+296 - Jizzy
+297 - Madd Dogg
+298 - Catalina
+299 - Claude Speed
+300 - PO
+301 - PO
+302 - PO
+303 - PO
+304 - PO
+305 - PO
+306 - PO
+307 - PO
+308 - Paramedic
+309 - PO
+310 - Sheriff
+311 - Sheriff

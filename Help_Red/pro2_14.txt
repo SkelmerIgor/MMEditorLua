@@ -1,0 +1,23 @@
+Города
+Los Santos (Лос-Сантос)
+San Fierro (Сан-Фиерро)
+Las Venturas (Лас-Вентурас)
+
+Деревни
+Palomino Creek (Паломино-Крик)
+Angel Pine (Эйнджел-Пайн)
+Montgomery (Монтгомери)
+Blueberry (Блуберри)
+El Quebrados (Эль-Кебрадос)
+Las Barrancas (Лас-Барранкас)
+Dillimore (Диллимор)
+Bayside (Бэйсайд)
+Fort Carson (Форт-Карсон)
+Las Payasadas (Лас-Паясадас)
+
+Округа
+Red County (Округ Ред)
+Flint County (Округ Флинт)
+Tierra Robada (Тьерра-Робада)
+Bone County (Округ Боун)
+Whetstone (Ветстоун)
