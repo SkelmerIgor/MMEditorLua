@@ -5,9 +5,9 @@
   "datappo": "21.06.2019",
   "zakon": "15",
   "lvl": "3",
-  "edit": false,
+  "edit": true,
   "AutoEdit": true,
-  "msg": "Данная функция отключена по просьбе главного администратора Kevin Trench.",
+  "msg": "-",
   "MMSettings": true,
   "MMmsg": true
 }
