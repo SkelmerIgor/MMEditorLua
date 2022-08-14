@@ -1,0 +1,96 @@
+9.1 | В Штате Chocolate имеется три города-округа:
+Город-округ Los Santos (Известен как Los Santos, Лос-Сантос, ЛС, LS). Районы Los Santos:
+    Vinewood (Известен как Гора Вайнвуд, ВВ, VW). Запрещено писать название этого района, как VineWood. Буква "W" должна быть строчной, а не заглавной;
+    Marina (Не путать с пляжем Санта-Мария);
+    Mulholland;
+    Market;
+    Verona Beach;
+    Santa Maria Beach (Известен как Санта-Мария, или пляж Санта-Мария);
+    Richman;
+    Rodeo;
+    Market Station;
+    Temple;
+    Verdant Bluffs;
+    Glen Park; (Известен как "респа баллас");
+    Commerce;
+    Los Santos Conference Center;
+    Little Mexico;
+    Los Santos International Airport;
+    Mulholland Intersection;
+    Pershing Square;
+    Unity Station (Известен как ЖДЛС, Ж/Д Вокзал ЛС);
+    Downtown Los Santos;
+    Idlewood;
+    East Los Santos;
+    East Beach;
+    Ganton;
+    Jefferson;
+    Las Colinas;
+    Los Flores;
+    Ocean Docks;
+    Playa del Seville;
+    Willowfield;
+    El Corona;
+Город-округ San Fierro (Известен как San Fierro, Сан-Фиерро, СФ, SF). Районы San Fierro:
+    Battery Point;
+    Esplanade East;
+    Juniper Hill;
+    Juniper Hollow;
+    Calton Heights;
+    Garver Bridge;
+    Kincaid Bridge;
+    Paradiso;
+    Palisades;
+    Santa Flora;
+    Esplanade North;
+    Chinatown;
+    Easter Bay International Airport;
+    Garcia;
+    Avispa Country Club;
+    Doherty;
+    Easter Basin;
+    King's;
+    Missionary Hill;
+    Ocean Flats;
+    City Hall;
+    Cranberry Station;
+    Easter Tunnel;
+    Foster Valley;
+    Hashbury;
+    Downtown San Fierro;
+    Financial;
+Город-округ Las Venturas (Известен как Las Venturas, Лас-Вентурас, ЛВ, LV). Районы Las Venturas:
+    Prickle Pine;
+    Spinybed;
+    Whitewood Estates;
+    Redsands West;
+    Redsands East;
+    Old Venturas Strip;
+    Roca Escalante;
+    Creek;
+    Blackfield;
+    Rockshore West;
+    Rockshore East;
+    Linden Side;
+    Pilgrim;
+    The Strip;
+    Blackfield Chapel;
+9.2 | В Штате Chocolate имеется также пять округов:
+    Red County. Населённые пункты Red County:
+    Palomino Creek;
+    Dillimore;
+    Blueberry;
+    Montgomery;
+Bone County. Населённые пункты Bone County:
+    Fort Carson;
+    Las Payasadas;
+    Las Brujas;
+Tierra Robada. Населённые пункты Tierra Robada:
+    Bayside;
+    Las Barrancas;
+    Valle Ocultado;
+    El Quebrados;
+    Aldea Malvada;
+Whetstone. Населённые пункты Whetstone:
+    Angel Pine;
+Flint County. Населённые пункты отсутствуют
