@@ -1,13 +1,13 @@
 {
-  "urlblacklist": "https://forum.advance-rp.ru/threads/.1837799/",
+  "urlblacklist": "",
   "datayst": "23.01.2019",
   "datapro": "23.01.2019",
   "datappo": "23.01.2019",
   "zakon": "20",
   "lvl": "3",
   "edit": true,
-  "AutoEdit": false,
+  "AutoEdit": true,
   "MMSettings": true,
   "MMmsg": true,
-  "msg": "AutoEdit отключен по просьбе Vito Lacotelli, гл. следящего за СМИ."
+  "msg": "-"
 }
